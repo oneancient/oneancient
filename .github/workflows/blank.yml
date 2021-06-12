@@ -3,7 +3,7 @@
 name: CI
 
 # Controls when the action will run. 
-on:
+on:1
   # Triggers the workflow on push or pull request events but only for the circleci-project-setup branch
   push:
     branches: [ circleci-project-setup ]
